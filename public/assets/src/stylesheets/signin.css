@@ -1,0 +1,238 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(248, 248, 248);
+    border-bottom-color: rgb(127, 127, 127);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    background-image:url("img/jogging-bridge-architecture.jpg");
+    background-position: 50% 20%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#box {
+    float: left;
+    height: 525px;
+    margin-left: 33.964189%;
+    clear: none;
+    width: 31.901632%;
+    background-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(241, 241, 241);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-top-color: rgb(241, 241, 241);
+    border-right-color: rgb(241, 241, 241);
+    border-left-color: rgb(241, 241, 241);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-top: 71px;
+    position: relative;
+}
+
+#email-input {
+    float: left;
+    height: 59px;
+    margin-left: 10.621901%;
+    margin-top: 39px;
+    clear: both;
+    width: 78.901765%;
+    background-color: rgb(248, 248, 248);
+    border-top-color: rgb(225, 225, 225);
+    border-right-color: rgb(225, 225, 225);
+    border-bottom-color: rgb(225, 225, 225);
+    border-left-color: rgb(225, 225, 225);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+#password-input {
+    float: left;
+    height: 59px;
+    margin-left: 10.621901%;
+    margin-top: 25px;
+    clear: both;
+    width: 78.901765%;
+    margin-right: 0%;
+    background-color: rgb(248, 248, 248);
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: rgb(225, 225, 225);
+    border-right-color: rgb(225, 225, 225);
+    border-bottom-color: rgb(225, 225, 225);
+    border-left-color: rgb(225, 225, 225);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+#login-btn {
+    float: left;
+    height: 50px;
+    font-size: 1.3em;
+    margin-left: 10.618914%;
+    margin-top: 29px;
+    clear: both;
+    width: 78.901765%;
+    background-color: rgb(0, 255, 128);
+    font-family: helvetica;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    font-weight: 500;
+    color: rgb(10, 112, 101);
+    display: block;
+}
+
+#text {
+    float: left;
+    font-size: 2em;
+    width: 78.898714%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.619864%;
+    margin-top: 30px;
+    clear: none;
+    min-height: 0px;
+    font-family: helvetica;
+    text-transform: uppercase;
+    margin-right: 0%;
+}
+
+#forogt-pass-link {
+    float: left;
+    font-size: 0.9em;
+    width: 78.896589%;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    clear: both;
+    min-height: 0px;
+    font-style: normal;
+    text-decoration: underline;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 16px;
+    margin-left: 10.621901%;
+    display: block;
+}
+
+#placeholder-email {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.12%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    color: rgba(112, 112, 112, 0.933333);
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+#placeholder-pass {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.116634%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    font-style: italic;
+    color: rgba(112, 112, 112, 0.933333);
+    text-transform: capitalize;
+}
+
+#signup-container {
+    float: left;
+    height: 77px;
+    margin-left: 33.964189%;
+    margin-top: 0px;
+    clear: both;
+    width: 31.901632%;
+    background-color: rgb(242, 242, 242);
+    border-top-color: rgb(225, 225, 225);
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+#new-user {
+    float: left;
+    font-size: 1.3em;
+    width: 78.450266%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.843694%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgba(96, 96, 96, 0.933333);
+}
+
+#signup-link {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(0, 172, 98);
+}
+
+#login-btn:hover {
+    background-color: rgb(0, 229, 79);
+}
+
