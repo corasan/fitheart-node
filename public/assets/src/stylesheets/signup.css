@@ -1,4 +1,9 @@
 /* This code is only meant for previewing your Reflow design. */
+input {
+    padding-left: 8%;
+    font-style: italic;
+}
+
 .primaryContainer {
     height: auto;
     margin-left: auto;
@@ -209,22 +214,22 @@
     background-color: rgb(248, 248, 248);
 }
 
-#placeholder-email2 {
-    float: left;
-    font-size: 1em;
-    width: auto;
-    height: auto;
-    text-align: left;
-    font-weight: normal;
-    line-height: 1em;
-    margin-left: 11.12%;
-    margin-top: 20px;
-    clear: none;
-    min-height: 0px;
-    color: rgba(112, 112, 112, 0.933333);
-    font-style: italic;
-    text-transform: capitalize;
-}
+/*#placeholder-email2 {*/
+    /*float: left;*/
+    /*font-size: 1em;*/
+    /*width: auto;*/
+    /*height: auto;*/
+    /*text-align: left;*/
+    /*font-weight: normal;*/
+    /*line-height: 1em;*/
+    /*margin-left: 11.12%;*/
+    /*margin-top: 20px;*/
+    /*clear: none;*/
+    /*min-height: 0px;*/
+    /*color: rgba(112, 112, 112, 0.933333);*/
+    /*font-style: italic;*/
+    /*text-transform: capitalize;*/
+/*}*/
 
 #password-input {
     float: left;
@@ -294,6 +299,7 @@
     display: block;
     margin-right: 0%;
     background-color: rgb(0, 255, 128);
+    padding-right: 40px;
 }
 
 #box2 {
@@ -350,7 +356,7 @@
     width: 71.775335%;
 }
 
-#feibu {
+#feibu-btn {
     float: left;
     height: 51px;
     font-size: 1.3em;
@@ -373,7 +379,7 @@
     border-bottom-left-radius: 2px;
 }
 
-#input {
+#tuirer-btn {
     float: left;
     height: 51px;
     font-size: 1.3em;
@@ -394,7 +400,7 @@
     display: block;
 }
 
-#input1 {
+#gugle-btn {
     float: left;
     height: 51px;
     font-size: 1.3em;
@@ -418,7 +424,7 @@
     display: block;
 }
 
-#input2 {
+#guijob-btn {
     float: left;
     height: 51px;
     font-size: 1.3em;
