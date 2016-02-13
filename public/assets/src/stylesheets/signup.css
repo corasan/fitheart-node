@@ -1,0 +1,444 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-image:url("../img/jogging-bridge.jpg");
+    background-position: 50% 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+#signup-btn:hover {
+    background-color: rgb(0, 229, 79);
+}
+
+#feibu:hover {
+    background-color: rgb(53, 80, 137);
+}
+
+#input:hover {
+    background-color: rgb(47, 153, 234);
+}
+
+#input1:hover {
+    background-color: rgb(208, 56, 37);
+}
+
+#input2:hover {
+    background-color: rgb(41, 41, 41);
+}
+
+#box {
+    float: left;
+    height: 554px;
+    margin-left: 23.19908%;
+    margin-top: 93px;
+    clear: none;
+    width: 34.134954%;
+    border-bottom-color: rgb(241, 241, 241);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-top-color: rgb(241, 241, 241);
+    border-right-color: rgba(235, 235, 235, 0.960784);
+    border-left-color: rgb(241, 241, 241);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.992157);
+}
+
+#text {
+    float: left;
+    font-size: 2em;
+    width: 64.946638%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.716882%;
+    margin-top: 30px;
+    clear: none;
+    min-height: 0px;
+    font-family: arial;
+    text-transform: capitalize;
+    margin-right: 0%;
+}
+
+#box1 {
+    float: left;
+    height: auto;
+    margin-left: 11.996322%;
+    margin-top: 35px;
+    clear: both;
+    width: 76.057515%;
+}
+
+#firstname-input {
+    float: left;
+    height: 59px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 99.826894%;
+    border-top-color: rgb(225, 225, 225);
+    border-right-color: rgb(225, 225, 225);
+    border-bottom-color: rgb(225, 225, 225);
+    border-left-color: rgb(225, 225, 225);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    margin-right: 0%;
+    background-color: rgb(248, 248, 248);
+}
+
+#placeholder-email {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.12%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    color: rgba(112, 112, 112, 0.933333);
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+#lastname-input {
+    float: left;
+    height: 59px;
+    margin-left: 0.16682708%;
+    margin-top: 25px;
+    clear: both;
+    width: 99.826894%;
+    border-top-color: rgb(225, 225, 225);
+    border-right-color: rgb(225, 225, 225);
+    border-bottom-color: rgb(225, 225, 225);
+    border-left-color: rgb(225, 225, 225);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    margin-right: 0%;
+    background-color: rgb(248, 248, 248);
+}
+
+#placeholder-email1 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.12%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    color: rgba(112, 112, 112, 0.933333);
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+#email-input {
+    float: left;
+    height: 59px;
+    margin-left: 0%;
+    margin-top: 25px;
+    clear: both;
+    width: 99.826896%;
+    border-top-color: rgb(225, 225, 225);
+    border-right-color: rgb(225, 225, 225);
+    border-bottom-color: rgb(225, 225, 225);
+    border-left-color: rgb(225, 225, 225);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    margin-right: 0%;
+    background-color: rgb(248, 248, 248);
+}
+
+#placeholder-email2 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.12%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    color: rgba(112, 112, 112, 0.933333);
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+#password-input {
+    float: left;
+    height: 59px;
+    margin-left: 0.13474495%;
+    margin-top: 25px;
+    clear: both;
+    width: 99.826896%;
+    margin-right: 0%;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: rgb(225, 225, 225);
+    border-right-color: rgb(225, 225, 225);
+    border-bottom-color: rgb(225, 225, 225);
+    border-left-color: rgb(225, 225, 225);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    background-color: rgb(248, 248, 248);
+}
+
+#placeholder-pass {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.116634%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    font-style: italic;
+    color: rgba(112, 112, 112, 0.933333);
+    text-transform: capitalize;
+}
+
+#signup-btn {
+    float: left;
+    height: 50px;
+    font-size: 1.3em;
+    margin-left: 11.946163%;
+    margin-top: 35px;
+    clear: both;
+    width: 75.932118%;
+    font-family: helvetica;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    font-weight: 500;
+    color: rgb(10, 112, 101);
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(0, 255, 128);
+}
+
+#box2 {
+    float: left;
+    height: 554px;
+    margin-left: 0%;
+    margin-top: 93px;
+    clear: none;
+    width: 23.277837%;
+    border-bottom-color: rgb(241, 241, 241);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-top-color: rgb(241, 241, 241);
+    border-right-color: rgb(241, 241, 241);
+    border-left-color: rgb(241, 241, 241);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    display: block;
+    margin-right: 0%;
+    background-color: rgba(255, 255, 255, 0.992157);
+}
+
+#text1 {
+    float: left;
+    font-size: 2em;
+    width: 74.122597%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 15.554174%;
+    margin-top: 30px;
+    clear: none;
+    min-height: 0px;
+    font-family: arial;
+    text-transform: none;
+    margin-right: 0%;
+}
+
+#box3 {
+    float: left;
+    height: auto;
+    margin-left: 15.552415%;
+    margin-top: 35px;
+    clear: both;
+    width: 71.775335%;
+}
+
+#feibu {
+    float: left;
+    height: 51px;
+    font-size: 1.3em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    letter-spacing: normal;
+    display: block;
+    border-top-style: none;
+    margin-right: 0%;
+    background-color: rgb(59, 89, 152);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+#input {
+    float: left;
+    height: 51px;
+    font-size: 1.3em;
+    margin-left: 0%;
+    margin-top: 30px;
+    clear: both;
+    width: 100%;
+    margin-right: 0%;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-top-style: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(85, 172, 238);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    display: block;
+}
+
+#input1 {
+    float: left;
+    height: 51px;
+    font-size: 1.3em;
+    margin-left: 0%;
+    margin-top: 30px;
+    clear: both;
+    width: 100%;
+    margin-right: 0%;
+    color: rgb(255, 255, 255);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    background-color: rgb(220, 74, 56);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    display: block;
+}
+
+#input2 {
+    float: left;
+    height: 51px;
+    font-size: 1.3em;
+    margin-left: 0%;
+    margin-top: 30px;
+    clear: both;
+    width: 100%;
+    margin-right: 0%;
+    color: rgb(255, 255, 255);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    background-color: rgb(68, 68, 68);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    display: block;
+}
+
