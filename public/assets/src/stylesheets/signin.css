@@ -1,4 +1,8 @@
-/* This code is only meant for previewing your Reflow design. */
+input {
+    padding-left: 8%;
+    font-style: italic;
+}
+
 .primaryContainer {
     height: auto;
     margin-left: auto;
