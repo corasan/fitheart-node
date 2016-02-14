@@ -3,6 +3,10 @@ input {
     font-style: italic;
 }
 
+::-webkit-input-placeholder {
+    font-style: italic;
+}
+
 .primaryContainer {
     height: auto;
     margin-left: auto;

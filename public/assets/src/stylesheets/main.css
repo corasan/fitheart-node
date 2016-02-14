@@ -1,5 +1,6 @@
-body {
-  padding-top: 30px; }
+html * {
+    font-family: 'Open Sans', sans-serif !important;
+}
 
 div.dashboard-gridlist md-grid-list {
   margin: 8px; }

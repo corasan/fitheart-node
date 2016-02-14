@@ -1,5 +1,8 @@
 input {
     padding-left: 8%;
+    font-style: normal;
+}
+::-webkit-input-placeholder {
     font-style: italic;
 }
 
@@ -124,6 +127,7 @@ input {
     font-weight: 500;
     color: rgb(10, 112, 101);
     display: block;
+    padding-right: 40px;
 }
 
 #text {
@@ -139,7 +143,6 @@ input {
     clear: none;
     min-height: 0px;
     font-family: helvetica;
-    text-transform: uppercase;
     margin-right: 0%;
 }
 
